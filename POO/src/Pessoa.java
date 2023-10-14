@@ -9,11 +9,9 @@ public abstract class Pessoa {
 
     // Métodos
     public void trabalhar() {
-        System.out.println("Trabalho qualquer");
     }
 
     public void estudar() {
-        System.out.println("Escola regular");
     }
 
     // Getters and Setters
